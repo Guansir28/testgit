@@ -5,6 +5,8 @@ public class HelloGit {
 	public static void main(String[] args) {
 		//测试git
 		System.out.println("HelloGit!");
+		//我的修改
+		System.out.println("修改");
 		//复制第一次修改
 		System.out.println("复制修改");
 	}
