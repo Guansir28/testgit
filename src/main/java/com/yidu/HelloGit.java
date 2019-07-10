@@ -7,5 +7,8 @@ public class HelloGit {
 		System.out.println("HelloGit!");
 		//我的修改
 		System.out.println("修改");
+		
+		//在hotfix下修复bug
+		System.out.println("在hotfix下修复bug");
 	}
 }
