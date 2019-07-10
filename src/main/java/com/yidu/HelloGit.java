@@ -10,5 +10,8 @@ public class HelloGit {
 		
 		//在hotfix下修复bug
 		System.out.println("在hotfix下修复bug");
+		
+		//复制第一次修改
+		System.out.println("复制修改");
 	}
 }
